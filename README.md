@@ -1,2 +1,23 @@
-# Loja-Basica-Produtos
-Loja básica de produtos desenvolvida com HTML, CSS e JavaScript, simulando uma vitrine simples de e-commerce onde o usuário pode visualizar produtos, adicionar itens ao carrinho e interagir com a interface de forma prática e responsiva.
+# 🛍️ Loja Básica de Produtos
+
+Projeto de uma **loja virtual simples** desenvolvido com **HTML, CSS e JavaScript**.
+
+## 🚀 Tecnologias
+- HTML
+- CSS
+- JavaScript
+
+## 📁 Como usar
+1. Clone ou baixe o repositório  
+2. Abra o arquivo `index.html` no navegador  
+
+## 🎯 Objetivo
+Praticar desenvolvimento front-end criando uma simulação de loja virtual com interação de produtos e carrinho.
+
+## ✨ Funcionalidades
+- Listagem de produtos   
+- Interface responsiva  
+
+## 👨‍💻 Autor
+João Pedro  
+GitHub: https://github.com/ZxJao
